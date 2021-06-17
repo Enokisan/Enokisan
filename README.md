@@ -3,6 +3,8 @@
 - Executive Director at E-project
 - The headmaster of ENO school online
 
+[![](https://img.shields.io/twitter/follow/EprojectColab1?style=social)](https://twitter.com/EprojectColab1)
+
 [![enokisan](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fenokisan)](https://atcoder.jp/users/enokisan)
 
 <!--
