@@ -2,7 +2,7 @@
 # About Me
 - Executive Director at E-project
 - The headmaster of ENO school online
-- Kyushu University EECS B3
+- Kyushu University EECS B4
 
 [![](https://img.shields.io/twitter/follow/EprojectColab1?style=social)](https://twitter.com/EprojectColab1)
 
