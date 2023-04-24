@@ -1,8 +1,9 @@
 ### Hello, everyone.
 # About Me
+- Learning Data Scientist (Students' performance prediction)
 - Executive Director at E-project
-- The headmaster of ENO school online
-- Kyushu University EECS B4
+- The founder of ENO school online
+- Graduated from Kyushu University EECS
 
 [![](https://img.shields.io/twitter/follow/EprojectColab1?style=social)](https://twitter.com/EprojectColab1)
 
